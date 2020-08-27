@@ -1,7 +1,7 @@
 # Python Projects
 Various smaller python projects that don't justify their own repo.
 
-Projects from:
+##Projects from:
 
 Impractical Python Projects  by Lee Vaughan https://nostarch.com/impracticalpythonprojects
 
@@ -11,6 +11,6 @@ Codewars https://www.codewars.com/
 
 Various random tinkerings.
 
-This is an unsorted collection, created before I transitioned into github, and has been added after the fact for posterity. 
+###This is an unsorted collection, created before I transitioned into github, and has been added after the fact for posterity. 
 
 
